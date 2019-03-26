@@ -1,0 +1,5 @@
+{
+  users: [
+  {name:'Carlos Miguel', last_name:'Perez Antunes', gener:'Masculino', email:'ejemplo@hotmail.com', rol:'1'}
+  ]
+}
